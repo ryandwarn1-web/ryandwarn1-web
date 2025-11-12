@@ -230,6 +230,3 @@ Here are some ideas to get you started:
       
 ## 🏆 My GitHub Profile Trophies
 <a target="_blank" href="https://github.com/?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=&theme=onestar&no-frame=true&column=6&row=1&margin-w=20&margin-h=20"  width="96%" alt="@Goblin's trophy stats"/></a>
-
-
-### Support me ❤️ by [starring](https://github.com/?tab=repositories) <img src="https://img.icons8.com/fluency/20/000000/star.png" /> some of my repositories ⬇️ !   
