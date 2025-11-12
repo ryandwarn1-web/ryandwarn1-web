@@ -1,15 +1,13 @@
 
-![ahlem](https://github.com/user-attachments/assets/61fd7225-641a-4c34-b814-d33cd80850c0)
-
 <h1 align="center">
   <div id="badges">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
- <a href="https://www.youtube.com/@ahlemphantom">
+ <a href="https://www.youtube.com">
     <img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-    <img src="https://komarev.com/ghpvc/?username=ahlem-phantom&style=for-the-badge">
-    <img src="https://img.shields.io/github/followers/ahlem-phantom.svg?style=for-the-badge&logo=appveyor">
+    <img src="https://komarev.com/ghpvc/?username=&style=for-the-badge">
+    <img src="https://img.shields.io/github/followers/.svg?style=for-the-badge&logo=appveyor">
   </div>
 <h3 align="center"> 😎 Full Stack Engineer | AI/ML | Python Dev | Data Science | NLP | Explorer </h3>
 
@@ -28,7 +26,7 @@
 
 
 <!--
-**ahlem-phantom/ahlem-phantom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**/** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -59,9 +57,9 @@ Here are some ideas to get you started:
 
 
 
-  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=ahlem-phantom"/>
+  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user="/>
   
-  <img height="170em" src="https://github-stats-alpha.vercel.app/api?username=ahlem-phantom&bc=ebebeb&ic=0E8AD9"/> 
+  <img height="170em" src="https://github-stats-alpha.vercel.app/api?username=&bc=ebebeb&ic=0E8AD9"/> 
 -->
 
   ## 🤝‍ About Me 
@@ -213,7 +211,7 @@ Here are some ideas to get you started:
 
 <!--
 <p align="center" style="margin-bottom: 10px;">
-    <img src="https://github-profile-trophy.vercel.app/?username=ahlem-phantom&column=7&theme=onedark"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=&column=7&theme=onedark"/>
 </p>
   -->
 
@@ -221,7 +219,7 @@ Here are some ideas to get you started:
 ## 💬 Connect with me ...
 <p align="center">
 <a href = 'https://www.linkedin.com/in/ahlem-laajili'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
-<a href = 'https://github.com/ahlem-phantom'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
+<a href = 'https://github.com/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
   </p>
   
   https://img.shields.io/github/followers/Naereen.svg?style=for-the-badge&logo=appveyor
@@ -233,18 +231,18 @@ Here are some ideas to get you started:
 
   
   <div align="center">
-    <img width="360" src="https://github-readme-stats.vercel.app/api?username=ahlem-phantom&count_private=true&show_icons=true&theme=react&rank_icon=percentile" />  
-<img width="380" src="https://github-readme-streak-stats.herokuapp.com/?user=ahlem-phantom&theme=react&layout=compa" />
-  <a href="https://github.com/ahlem-phantom">  
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahlem-phantom&count_private=true&langs_count=14&show_icons=true&locale=en&layout=compact&theme=react"/> 
+    <img width="360" src="https://github-readme-stats.vercel.app/api?username=&count_private=true&show_icons=true&theme=react&rank_icon=percentile" />  
+<img width="380" src="https://github-readme-streak-stats.herokuapp.com/?user=&theme=react&layout=compa" />
+  <a href="https://github.com/">  
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs?username=&count_private=true&langs_count=14&show_icons=true&locale=en&layout=compact&theme=react"/> 
   </a>
-                <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahlem-phantom&theme=react"/>
+                <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=&theme=react"/>
 
 </div>
 
       
 ## 🏆 My GitHub Profile Trophies
-<a target="_blank" href="https://github.com/ahlem-phantom?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=ahlem-phantom&theme=onestar&no-frame=true&column=6&row=1&margin-w=20&margin-h=20"  width="96%" alt="@Goblin's trophy stats"/></a>
+<a target="_blank" href="https://github.com/?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=&theme=onestar&no-frame=true&column=6&row=1&margin-w=20&margin-h=20"  width="96%" alt="@Goblin's trophy stats"/></a>
 
 
-### Support me ❤️ by [starring](https://github.com/ahlem-phantom?tab=repositories) <img src="https://img.icons8.com/fluency/20/000000/star.png" /> some of my repositories ⬇️ !   
+### Support me ❤️ by [starring](https://github.com/?tab=repositories) <img src="https://img.icons8.com/fluency/20/000000/star.png" /> some of my repositories ⬇️ !   
