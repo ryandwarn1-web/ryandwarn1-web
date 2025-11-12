@@ -211,8 +211,3 @@ Here are some ideas to get you started:
   
   https://img.shields.io/github/followers/Naereen.svg?style=for-the-badge&logo=appveyor
   -->
-
-## 📈 GitHub Analytics
-
-## 🏆 My GitHub Profile Trophies
-<a target="_blank" href="https://github.com/?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=&theme=onestar&no-frame=true&column=6&row=1&margin-w=20&margin-h=20"  width="96%" alt="@Goblin's trophy stats"/></a>
