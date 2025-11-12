@@ -213,20 +213,6 @@ Here are some ideas to get you started:
   -->
 
 ## 📈 GitHub Analytics
- 
 
-
-  
-  <div align="center">
-    <img width="360" src="https://github-readme-stats.vercel.app/api?username=&count_private=true&show_icons=true&theme=react&rank_icon=percentile" />  
-<img width="380" src="https://github-readme-streak-stats.herokuapp.com/?user=&theme=react&layout=compa" />
-  <a href="https://github.com/">  
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs?username=&count_private=true&langs_count=14&show_icons=true&locale=en&layout=compact&theme=react"/> 
-  </a>
-                <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=&theme=react"/>
-
-</div>
-
-      
 ## 🏆 My GitHub Profile Trophies
 <a target="_blank" href="https://github.com/?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=&theme=onestar&no-frame=true&column=6&row=1&margin-w=20&margin-h=20"  width="96%" alt="@Goblin's trophy stats"/></a>
