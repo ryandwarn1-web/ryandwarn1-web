@@ -1,15 +1,4 @@
-
-<h1 align="center">
-  <div id="badges">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
- <a href="https://www.youtube.com">
-    <img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-    <img src="https://komarev.com/ghpvc/?username=&style=for-the-badge">
-    <img src="https://img.shields.io/github/followers/.svg?style=for-the-badge&logo=appveyor">
-  </div>
-<h3 align="center"> 😎 Full Stack Engineer | AI/ML | Python Dev | Data Science | NLP | Explorer </h3>
+<h3 align="center"> 😎 Full Stack Blockchain Engineer | AI/ML | Python Dev | Data Science | NLP | Explorer </h3>
 
 <div>
 
