@@ -74,6 +74,7 @@ Here are some ideas to get you started:
       <td align="center" width=110>  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" /> </td>
       <td align="center" width=110>  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" /> </td>
       <td align="center" width=110> <img height=60 src="https://techstack-generator.vercel.app/cpp-icon.svg"/> </td>
+      <td align="center" width=110> <img height=60 src="https://techstack-generator.vercel.app/blockchain-icon.svg"/> </td>
     </tr>
     <tr> 
       <td align="center" width=110>Python</td>
