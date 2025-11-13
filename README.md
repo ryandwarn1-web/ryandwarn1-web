@@ -5,10 +5,10 @@
 </h1>
 <div align="center">
     <p>
-      <img src="https://img.shields.io/badge/Interest-Artificial Intelligence-blue"/>
-<img src="https://img.shields.io/badge/Hobby-Coding%2C%20Gaming-blue" />
-<img src="https://img.shields.io/badge/Programming-Python%2C%20Java%2C%20JavaScript-blue" />
-<img src="https://img.shields.io/badge/Language-English%2C%20French-blue" />
+      <img src="https://img.shields.io/badge/Blockchain.com-121D33.svg?style=for-the-badge&logo=blockchaindotcom&logoColor=white"/>
+<img src="https://img.shields.io/badge/Web3.js-F16822.svg?style=for-the-badge&logo=web3dotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white" />
     </p>
 </div>
 
